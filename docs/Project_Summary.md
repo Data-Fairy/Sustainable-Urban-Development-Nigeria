@@ -70,7 +70,7 @@ The workflow includes:
 8. Scientific interpretation.
 9. Independent validation of Python outputs against SPSS analyses.
 
-Python served as the primary analytical environment for reproducibility and visualization, while SPSS was used to independently verify statistical outputs reported in the accompanying manuscript.
+SPSS served as the primary statistical analysis environment for hypothesis testing and model estimation, while Python was subsequently used to independently reproduce and validate the analytical results, generate publication-quality visualizations, and establish a fully reproducible analytical workflow. This dual-platform approach strengthened the transparency and reproducibility of the study while demonstrating consistency between statistical software packages.
 
 ---
 
@@ -169,6 +169,8 @@ This repository includes:
 
 # Conclusion
 
-This project demonstrates how reproducible data analytics can support evidence-based urban sustainability research. By integrating statistical modelling, visualization, and scientific interpretation, the study moves beyond describing implementation challenges to identifying where interventions are likely to have the greatest impact.
+This project demonstrates how reproducible data analytics can support evidence-based urban sustainability research. By integrating statistical modelling, visualization, and scientific interpretation, the study moves beyond describing implementation challenges to identifying where interventions are likely to have the greatest impact. 
+
+Unlike many research repositories that simply reproduce published analyses, this project documents the complete transition from conventional statistical software (SPSS) to a reproducible Python workflow. The notebooks not only replicate the published findings but also provide transparent code, diagnostics, visualizations, and documentation that enable independent verification and future extension of the analyses.
 
 The central contribution of the project is the **Adoption–Contribution Gap**, which provides a practical framework for understanding the difference between what built environment professionals currently implement and where they believe they can contribute most. The findings suggest that future progress depends less on increasing awareness and more on strengthening the infrastructure, governance, institutional capacity, and enabling conditions that allow professionals to translate sustainability knowledge into practice.
