@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Beyond Awareness Banner" width="100%">
+  <img src="images/banner.png" alt="banner" width="100%">
 </p>
 
 # Beyond Awareness: Understanding the Drivers of Sustainable Practice Adoption Among Built Environment Professionals
