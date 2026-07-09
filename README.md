@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Beyond Awareness Banner" width="100%">
+</p>
+
 # Beyond Awareness: Understanding the Drivers of Sustainable Practice Adoption Among Built Environment Professionals
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
