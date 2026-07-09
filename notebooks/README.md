@@ -15,8 +15,6 @@ Contains the complete analytical workflow, including:
 - Model diagnostics
 - Interpretation of findings
 
----
-
 ### 02_Publication_Figures.ipynb
 
 Contains all publication-quality figures developed for the accompanying manuscript.
